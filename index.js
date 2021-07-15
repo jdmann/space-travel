@@ -1,4 +1,5 @@
-// import packages - added by Jonathan 07-13-2021 @ 7PM Pacific Time
+//THIS IS THOMS EDIT
+
 const express = require('express');
 const chalk = require('chalk');
 const server = express();
